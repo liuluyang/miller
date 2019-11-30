@@ -1,0 +1,4 @@
+{
+  "admin":{"name": "admin", "pwd": "12345", "identity": "AdminView"},
+  "miller": {"name": "miller", "pwd": "12345", "identity": "TeacherView"}
+}

@@ -1,0 +1,9 @@
+var num = int32
+
+func (a, b int) (int, error){
+    x := 100
+}
+
+def func(x, y, z=10):
+    print(x+y+z)
+
